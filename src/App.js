@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import './App.css';
+import './components/Cards.css'
 import Container from './components/Container';
 import AboutUs  from './components/AboutUs';
 import Discoverproducts from './components/Discoverproducts';
