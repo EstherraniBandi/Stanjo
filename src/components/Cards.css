@@ -1,13 +1,11 @@
-.Cards-title1{
-    width: 300px;
-    background: white;
-    border-radius: 10px;
-    text-align: center;
-    color: blue;
-    margin-left:0px;
-}
 .Short-images{
     display: flex;
+    text-align: center;
+}
+.Cards-title1{
+    border-color: #14BF9C3D;
+    padding: 12px;
+    border-width: 1px;
 }
 
 

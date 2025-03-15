@@ -1,0 +1,27 @@
+.Choose-stanjo{
+    color: blue;
+    text-align: left;
+    padding: 20px;
+    margin: auto;
+   
+}
+.Sub-heading{
+    color: blue;
+    font-weight: bold;
+    
+}
+.heading{
+    color: black;
+}
+.Discription{
+line-height: 1.5;
+color: black;
+}
+.Choose-Stanjo-image{
+    display: flex;
+    gap:20px;
+    text-align: center;
+}
+.gap{
+    height:50px;
+}

@@ -34,7 +34,7 @@ function Header () {
                         < img src ={stanjo} alt=""/> </div>
                 <div  className="middle-menu">
                     <navbar>
-                        <div className="rani">
+                        
                      <ui>home</ui>
                     <ui>about</ui>
                     <ui>certifications</ui>
@@ -42,7 +42,7 @@ function Header () {
                     <ui>shop</ui>
                     <ui>Contact us</ui>
                     <ui>Calculators</ui> 
-                    </div></navbar>
+                    </navbar>
                 </div> 
                     <div className="right-header2">
                         < img src={harmburger} alt="" />

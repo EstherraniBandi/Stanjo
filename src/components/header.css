@@ -11,10 +11,10 @@
     width: 100vw; 
     height: 50px; */
 }
-.main{
+/* .main{
     padding-right: 200px;
     
-}
+} */
  .header {
     display: flex;
 
@@ -48,22 +48,22 @@ box-shadow: 5px; */
 .header2{
     display: flex;
     list-style: none;
-gap: 40px;
+/* gap: 40px; */
 text-align: center;
-justify-content: space-evenly;
+justify-content: space-between;
 margin-left:0px;
 }
 
 .Second_header{
     background-color:white;
     display: flex;
-    padding:20px;
+    /* padding:20px; */
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: center;
 }
-.middle-menu{
+.middle-menu>navbar{
     display: flex;
-    gap: 10px;
+    gap: 20px;
     align-items: center;
     justify-content: center ;
     justify-content: space-between;
@@ -75,6 +75,7 @@ padding: 10px;
 }
 .rani{
     display: flex;
+    gap:20px;
     
 }
 

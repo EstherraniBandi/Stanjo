@@ -1,0 +1,17 @@
+.Short-image3 {
+    
+    display: flex;
+    text-align: center;
+}
+.Short-image3>div{
+    text-align: center;
+    justify-content: center;
+}
+.Ninthpic{
+    
+    text-align: center;
+    justify-content: center;
+}
+.gap{
+    height:50px;
+}
